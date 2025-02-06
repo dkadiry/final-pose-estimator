@@ -1,0 +1,51 @@
+#Annotations from analysis
+Bounding_Box_Images/
+
+#Data
+Data/
+
+# Old results
+Pose_Results/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Unit test / coverage reports 
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.pytest_cache/
+
+# Temporary files
+*.tmp
+*.temp
+
+# IDE-specific files 
+.vscode/
+.idea/
+
+# Ignore other sensitive or unnecessary files/directories
+logs/
+*.txt
+*.csv
+Notebooks/
+scripts/
+test.py
+testrerun.py
+*.log
+plot_poses_og.py
+plot_results.py
+pose_estimator_affine.py
+old_estimators/
