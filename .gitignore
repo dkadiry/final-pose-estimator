@@ -55,3 +55,4 @@ plot_poses_og.py
 plot_results.py
 pose_estimator_affine.py
 old_estimators/
+*.rrd
