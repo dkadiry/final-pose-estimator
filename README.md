@@ -57,7 +57,7 @@ This is the front facing camera absolute trajectory comparison of the front faci
 
  ![Trajectory Plots](display_results/trajectory_comparison_plot.png) 
  
-For a full discussion of the results (both quantitative and qualitative), refer to my MSc thesis [link to Thesis Publication](https://ir.lib.uwo.ca/etd/10688)
+For a full discussion of the results (both quantitative and qualitative), refer to my MSc thesis [(Link to Thesis Publication)](https://ir.lib.uwo.ca/etd/10688)
 
 ## 📖 Acknowledgments
 This work is part of my MSc thesis at **Western University**, titled:
