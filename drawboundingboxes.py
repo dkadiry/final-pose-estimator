@@ -3,7 +3,7 @@ import utils.tools as tools
 from old_estimators import poseestimatorv4
 
 
-index = 180
+index = 149
 image_folder = "Data\RFC Pose Estimation Images"
 label_folder = "Data\Bounding_box_labels"
 
